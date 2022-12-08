@@ -20,3 +20,4 @@ function XO(str) {
   else {return false}
 }
 XO('sdkjf')
+### 6. My English level is about Pre-Intermediate
